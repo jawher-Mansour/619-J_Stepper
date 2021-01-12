@@ -25,6 +25,19 @@ Here are the schematic and the board:
 
 <div align="center"><img src="image/sch.JPG" width="100%"></div>
 
+# Downloads
+
+* [619-J_Stepper schematics](https://github.com/FAB619/619-J_Stepper/tree/main/files/Kicad%20Files)
+
+* [619-J_Stepper board](https://github.com/FAB619/619-J_Stepper/tree/main/files/Kicad%20Files)
+
+* [619-J_Stepper Step](https://github.com/FAB619/619-J_Stepper/blob/main/files/Stepper%20Servo.step)
+
+* [619-J_Stepper BOM](https://github.com/FAB619/619-J_Stepper/blob/main/files/BOM_final.xlsx)
+
+* [619-J_Stepper Position file](https://github.com/FAB619/619-J_Stepper/blob/main/files/Stepper%20Servo-all-pos.csv)
+
+* [619-J_Stepper Gerber](https://github.com/FAB619/619-J_Stepper/tree/main/files/Manufacturing)
 
 # Getting started
 

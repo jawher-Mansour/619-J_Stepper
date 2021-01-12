@@ -23,7 +23,7 @@ Here the **features** of the **619-J_Stepper**:
 
 Here are the schematic and the board:
 
-<div align="center"><img src="image/sch.JPG" width="70%"></div>
+<div align="center"><img src="image/sch.JPG" width="100%"></div>
 
 
 # Getting started
